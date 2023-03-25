@@ -24,8 +24,7 @@ ___
 
 ### :seedling: Поверхностные знания:
 <div dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Barmatuhin-Kent/icons/blob/main/icons/icons8-питон-480.png"><img src="https://github.com/Barmatuhin-Kent/icons/blob/main/icons/icons8-питон-480.png" title="Python" alt="Python" width="80" height="80" style="max-width: 100%;"></a>&nbsp; 
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Barmatuhin-Kent/icons/blob/main/icons/icons8-3ds-max-480.png"><img src="https://github.com/Barmatuhin-Kent/icons/blob/main/icons/icons8-3ds-max-480.png" title="3DS max" alt="3DS max" width="80" height="80" style="max-width: 100%;"></a>&nbsp;
-   
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Barmatuhin-Kent/icons/blob/main/icons/icons8-html-5-480.png"><img src="https://github.com/Barmatuhin-Kent/icons/blob/main/icons/icons8-html-5-480.png" title="HTML5" alt="HTML5" width="80" height="80" style="max-width: 100%;"></a>&nbsp; 
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Barmatuhin-Kent/icons/blob/main/icons/icons8-css3-480.png"><img src="https://github.com/Barmatuhin-Kent/icons/blob/main/icons/icons8-css3-480.png" title="CSS" alt="CSS" width="80" height="80" style="max-width: 100%;"></a>&nbsp;   
 </div>
 

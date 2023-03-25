@@ -28,3 +28,12 @@ ___
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/Barmatuhin-Kent/icons/blob/main/icons/icons8-css3-480.png"><img src="https://github.com/Barmatuhin-Kent/icons/blob/main/icons/icons8-css3-480.png" title="CSS" alt="CSS" width="80" height="80" style="max-width: 100%;"></a>&nbsp;   
 </div>
 
+___
+
+### :clipboard: В планах изучить:
+📌 Selenium\
+📌 MySQL PostgreSQL\
+📌 Django JS, vue.js, React\
+📌 Работа с Linux\
+📌 Docker\
+📌 Telegram-боты

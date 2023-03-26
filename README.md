@@ -49,3 +49,7 @@ ___
 |[Поколение Python: Курс для профессионалов](https://stepik.org/course/82541/syllabus)|в процессе|
 |[Основы HTML и CSS](https://stepik.org/course/52164/syllabus)|февраль 2023|
 
+___
+
+### Здесь пока похвастать нечем. Буду решать задачки))
+![Codewars](https://www.codewars.com/users/Barmatuhin_Kent/badges/large)

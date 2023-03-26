@@ -47,4 +47,5 @@ ___
 |[Поколение Python: Курс для начинющих](https://stepik.org/course/58852/syllabus)|январь 2023|
 |[Поколение Python: Курс для продвинутых](https://stepik.org/course/68343/syllabus)|февраль 2023|
 |[Поколение Python: Курс для профессионалов](https://stepik.org/course/82541/syllabus)|в процессе|
+|[Основы HTML и CSS](https://stepik.org/course/52164/syllabus)|февраль 2023|
 

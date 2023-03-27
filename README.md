@@ -31,7 +31,7 @@ ___
 ___
 
 ### :clipboard: В планах изучить:
-📌 Selenium\
+📌 Selenium (уже немного потрогал)\
 📌 MySQL PostgreSQL\
 📌 Django JS, vue.js, React\
 📌 Работа с Linux\
